@@ -83,4 +83,4 @@ Contributions are not open yet while the foundation is being built. Check back a
 
 ## License
 
-To be decided.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
