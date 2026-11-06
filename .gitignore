@@ -1,0 +1,35 @@
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment files
+.env
+.env.*
+*.local
+.venv/
+venv/
+
+# Local config backups (can contain private data)
+backups/*
+!backups/.gitkeep
+
+# Build output
+build/
+dist/
+out/
+
+# Editor files
+.vscode/
+.idea/
